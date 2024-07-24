@@ -1,4 +1,4 @@
-# llama3.1-405b-app
+# llama3.1-405b-ChatGPT-4x-comparison
 
 this project did a quick test and comparison of the ability of llama3.1-405b with ChatGPT-4, ChatGPT-4o to answer domain specific questions. Lepton.ai provided inference endpoint for llama3.1-405b
 
