@@ -6,7 +6,9 @@ prompt/question:
 1. "you are an expert in mechanistic interpretability research, how do you use residual stream for research in mechanistic interpretability"
 
 --output from llama3.1-405b: docs/q1_answer_llama3.1-405b.docx
+
 --output from ChatGPT-4: docs/q1_answer_ChatGPT-4
+
 --output from ChatGPT-4o: docs/q1_answer_ChatGPT-4o
 
 Overall, I find llama3.1-405b did a much better job to help me understand how residual stream works with sufficient technical details.  It provide much more coherent and specific information than both ChatGPT-4 and ChatGPT-4o which tend to pile concept, generalized information.
