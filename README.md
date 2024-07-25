@@ -1,11 +1,19 @@
 # llama3.1-405b-ChatGPT-4x-comparison
 
+
 this project did a quick test and comparison of the ability of llama3.1-405b with ChatGPT-4, ChatGPT-4o to answer domain specific questions. Lepton.ai provided inference endpoint for llama3.1-405b
+
+07/25. update.  different vendor providing llama3.1-405b inference may have different configurations (FP16, FP8, INT4), different configureation may affect the results
+
+tried the same prompt/question with X vendor, it appeared the performance decreased, need to check what is the model configuration 
+--output from llama3.1-405b from X vendor: docs/q1_answer_llama3.1-405b_possibleQuantizedConfig.docx
+
+07/24
 
 prompt/question:
 1. "you are an expert in mechanistic interpretability research, how do you use residual stream for research in mechanistic interpretability"
 
---output from llama3.1-405b: docs/q1_answer_llama3.1-405b.docx
+--output from llama3.1-405b provided at the Emergency Llama 3.1 Hackathon at AGI House 07/23: docs/q1_answer_llama3.1-405b.docx
 
 --output from ChatGPT-4: docs/q1_answer_ChatGPT-4
 
