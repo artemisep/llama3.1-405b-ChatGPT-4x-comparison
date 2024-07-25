@@ -3,7 +3,7 @@
 
 this project did a quick test and comparison of the ability of llama3.1-405b with ChatGPT-4, ChatGPT-4o to answer domain specific questions. Lepton.ai provided inference endpoint for llama3.1-405b
 
-07/25. update.  different vendor providing llama3.1-405b inference may have different configurations (FP16, FP8, INT4), different configureation may affect the results
+07/25. update.  different vendor providing llama3.1-405b inference may have different configurations (FP16, FP8, INT4), and which may affect the results
 
 tried the same prompt/question with X vendor, it appeared the performance decreased, need to check what is the model configuration 
 --output from llama3.1-405b from X vendor: docs/q1_answer_llama3.1-405b_possibleQuantizedConfig.docx
