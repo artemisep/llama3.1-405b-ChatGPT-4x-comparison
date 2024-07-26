@@ -12,6 +12,6 @@ for example, I think the following segment in llama3.1-405b's answer is importan
 llama3.1-405b says:
 3. **Path attribution**: I use the residual stream to attribute the model's predictions to specific paths or sequences of computations within the network. This involves analyzing how the residual stream changes as the input propagates through the model, allowing me to identify the most influential components.
 
-go to artemisep.github.io for the detailed output from Llama3.1-405b and ChatGPT-4x
+To view detailed answers in browser instead of downloading pdf file here, please go to artemisep.github.io
 
 
